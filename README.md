@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Muhammad Ali
 
 <!--
 **M-A-S1/M-A-S1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ---
 
-👋 I'm Muhammad Ali
 
 ## 🚀 About Me
 I'm an Electrical Engineer from Pakistan with a passion for solving real-world problems through data-driven solutions and artificial intelligence. Currently pursuing my **MS in Electrical Engineering (AI and Autonomous Systems)** from NUST, I aspire to become a **Machine Learning Engineer / AI Engineer / Data Scientist**.
