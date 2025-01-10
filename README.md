@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## 🚀 About Me
-I'm an Electrical Engineer from Pakistan with a passion for solving real-world problems through data-driven solutions and artificial intelligence. Currently pursuing my **MS in Electrical Engineering (AI and Autonomous Systems)** from NUST, I aspire to become a **Machine Learning / AI Engineer **.
+I'm an Electrical Engineer from Pakistan with a passion for solving real-world problems through data-driven solutions and artificial intelligence. Currently pursuing my **MS in Electrical Engineering (AI and Autonomous Systems)** from NUST, I aspire to become a **Machine Learning / AI Engineer**.
 
 ## 🎯 My Goals
 - 🌟 Contribute to impactful AI and autonomous systems projects.
@@ -100,4 +100,5 @@ When I'm not working on AI projects, you can find me exploring new tech trends, 
 - [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
