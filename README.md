@@ -15,28 +15,48 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👋 I'm Muhammad Ali
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+## 🚀 About Me
+I'm an Electrical Engineer from Pakistan with a passion for solving real-world problems through data-driven solutions and artificial intelligence. Currently pursuing my **MS in Electrical Engineering (AI and Autonomous Systems)** from NUST, I aspire to become a **Machine Learning Engineer / AI Engineer / Data Scientist**.
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+## 🎯 My Goals
+- 🌟 Contribute to impactful AI and autonomous systems projects.
+- 📊 Build data-driven solutions for practical challenges.
+- 📚 Continuously learn and grow in the fields of AI and Data Science.
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+## 🧑‍💻 Work Experience
+- **Quality Assurance Specialist @ Virtua Inspection Services (Feb 2024 - Present)**
+   - Developing 3D models using point cloud data from drone imagery.
+   - Contributing to the development of AI-powered digital twins for telecom inspections.
 
-### :woman_technologist: &nbsp;About Me :
+- **Assistant Engineer (Electronics) @ Government of Pakistan (Aug 2022 - Feb 2024)**
+   - Ensured quality and reliability of electronic control systems.
+   - Conducted ISO 9001:2015 audits and QMS process improvements.
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- **Quality Assurance Specialist @ Deep Cognitive Solutions Pakistan (Apr 2019 - Aug 2022)**
+   - Worked with AI-powered computer vision for 3D modeling from drone images.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+## 📚 Certifications
+- Improving Deep Neural Networks
+- Convolutional Neural Networks
+- Unsupervised Learning & Reinforcement Learning
+- ISO 9001:2015 Auditor
+
+## 📈 Skills
+- Machine Learning & Deep Learning
+- Python, OpenCV, TensorFlow, PyTorch
+- Statistical Data Analysis
+- Computer Vision
+- Quality Assurance & Audits
+
+## 📫 Let's Connect!
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/m-a-s94)
+- 📧 Email: 13beemali@seecs.edu.pk
+
+## ⚡ Fun Fact
+When I'm not working on AI projects, you can find me exploring new tech trends, diving into data visualization, or reading about the latest advancements in autonomous systems.
+
 
 ---
 
