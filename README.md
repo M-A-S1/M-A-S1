@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 <div id="header" align="center">
@@ -56,8 +55,8 @@ I'm an Electrical Engineer from Pakistan with a passion for solving real-world p
 - Quality Assurance & Audits
 
 ## 📫 Let's Connect!
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/m-a-s94)
-- 📧 Email: 13beemali@seecs.edu.pk
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-ali-sid/)
+- 📧 Email: muhammad.ali.sid25@gmail.com
 
 ## ⚡ Fun Fact
 When I'm not working on AI projects, you can find me exploring new tech trends, diving into data visualization, or reading about the latest advancements in autonomous systems.
