@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## 🚀 About Me
-I'm an Electrical Engineer from Pakistan with a passion for solving real-world problems through data-driven solutions and artificial intelligence. Currently pursuing my **MS in Electrical Engineering (AI and Autonomous Systems)** from NUST, I aspire to become a **Machine Learning Engineer / AI Engineer / Data Scientist**.
+I'm an Electrical Engineer from Pakistan with a passion for solving real-world problems through data-driven solutions and artificial intelligence. Currently pursuing my **MS in Electrical Engineering (AI and Autonomous Systems)** from NUST, I aspire to become a **Machine Learning / AI Engineer **.
 
 ## 🎯 My Goals
 - 🌟 Contribute to impactful AI and autonomous systems projects.
