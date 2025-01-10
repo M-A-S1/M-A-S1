@@ -21,7 +21,7 @@ I'm an Electrical Engineer graduate from NUST, Pakistan, passionate about solvin
 
 - ⚡ Fun fact **I love Single Player Video Games**
 
-- ## 📫 Let's Connect!
+## 📫 Let's Connect!
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-ali-sid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ali-sid/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5058313/muhammad-ali-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/5058313/muhammad-ali-siddiqui" height="30" width="40" /></a>
