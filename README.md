@@ -7,11 +7,11 @@
 ---
 
 ## 🚀 About Me
-I'm an Electrical Engineer from Pakistan with a passion for solving real-world problems through data-driven solutions and artificial intelligence. Currently pursuing my **MS in Electrical Engineering (AI and Autonomous Systems)** from NUST, I aspire to become a **Machine Learning / AI Engineer**.
+I'm an Electrical Engineer graduate from NUST, Pakistan, passionate about solving real-world problems through data-driven solutions and artificial intelligence. Currently pursuing my **MS in Electrical Engineering (AI and Autonomous Systems)** from NUST.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M-A-S1&label=Profile%20views&color=0e75b6&style=flat" alt="M-A-S1" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Neural Networks**
 
 - 👨‍💻 All of my projects are available at (https://github.com/M-A-S1?tab=repositories)
 
