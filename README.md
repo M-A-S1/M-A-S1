@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Muhammad Ali
+# Hi there 👋 I'm Muhammad Ali
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -20,6 +20,14 @@ I'm an Electrical Engineer graduate from NUST, Pakistan, passionate about solvin
 - 📫 How to reach me **muhammad.ali.sid25@gmail.com**
 
 - ⚡ Fun fact **I love Single Player Video Games**
+
+### 📫 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-ali-sid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ali-sid/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5058313/muhammad-ali-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/5058313/muhammad-ali-siddiqui" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Muhammad.Ali.Siddiqui4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Muhammad.Ali.Siddiqui4/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/malisiddiqui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/malisiddiqui/" height="30" width="40" /></a>
+</p>
 
 ## 🎯 My Goals
 - 🌟 Contribute to impactful AI and autonomous systems projects.
@@ -58,14 +66,6 @@ I'm an Electrical Engineer graduate from NUST, Pakistan, passionate about solvin
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </p>
 
-
-## 📫 Let's Connect!
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-ali-sid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ali-sid/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5058313/muhammad-ali-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/5058313/muhammad-ali-siddiqui" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Muhammad.Ali.Siddiqui4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Muhammad.Ali.Siddiqui4/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/malisiddiqui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/malisiddiqui/" height="30" width="40" /></a>
-</p>
 
 ### 🔥 &nbsp; My Stats :
 
