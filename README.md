@@ -93,10 +93,12 @@ When I'm not working on AI projects, you can find me exploring new tech trends, 
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=M-A-S1)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-S1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-A-S1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="M-A-S1" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-A-S1&show_icons=true&locale=en&theme=tokyonight" alt="M-A-S1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M-A-S1&theme=tokyonight" alt="M-A-S1" /></p>
 ---
 
 
