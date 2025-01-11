@@ -32,7 +32,7 @@ I'm an Electrical Engineer graduate from NUST, Pakistan, passionate about solvin
 ## 🎯 My Goals
 - 🌟 Contribute to impactful AI and autonomous systems projects.
 - 📊 Build data-driven solutions for practical challenges.
-- 📚 Continuously learn and grow in the fields of AI and Data Science.
+- 📚 Continuously learn and grow in the fields of AI, Robotics and Data Science.
 
 ## 🧑‍💻 Work Experience
 - **Quality Assurance Specialist @ Virtua Inspection Services (Feb 2024 - Present)**
