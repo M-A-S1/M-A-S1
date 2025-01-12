@@ -11,7 +11,7 @@ I'm an Electrical Engineer graduate from NUST, Pakistan, passionate about solvin
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M-A-S1&label=Profile%20views&color=0e75b6&style=flat" alt="M-A-S1" /> </p>
 
-- 🌱 I’m currently expanding my expertise in **Deep Neural Networks and Data Science**
+- 🌱 I’m currently expanding my expertise in **Deep Neural Networks and SLAM**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/M-A-S1?tab=repositories)
 - 💬 Ask me about **Machine Learning, AI, and Robotics**
 - 📫 Reach me at **muhammad.ali.sid25@gmail.com**
