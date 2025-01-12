@@ -30,6 +30,12 @@ I'm an Electrical Engineer graduate from NUST, Pakistan, passionate about solvin
 - 📊 Build data-driven solutions for practical challenges.
 - 📚 Continuously learn and grow in the fields of AI, Robotics, and Data Science.
 
+## 📚 Education
+- **MS in Electrical Engineering (AI & Autonomous Systems)** - National University of Sciences and Technology (NUST), Islamabad (Sep 2024 - Ongoing)
+- **BE in Electrical Engineering (Major: Electronics)** - National University of Sciences and Technology (NUST), Islamabad (Sep 2013 - June 2017)
+- **GCE A-Levels** - National Grammar School, Lahore (Sep 2011 - Aug 2013)
+- **GCE O-Levels** - Laurelbank Public School, Lahore (April 2008 - Aug 2011)
+
 ## 🧑‍💻 Work Experience
 - **Quality Assurance Specialist @ Virtua Inspection Services (Feb 2024 - Present)**
    - Developing 3D models using point cloud data from drone imagery.
@@ -43,12 +49,6 @@ I'm an Electrical Engineer graduate from NUST, Pakistan, passionate about solvin
    - Reviewed and corrected point-cloud based 3D models using AI tools.
    - Collaborated on efficiency improvement for AI-based telecom inspections.
 
-## 📚 Education
-- **MS in Electrical Engineering (AI & Autonomous Systems)** - National University of Sciences and Technology (NUST), Islamabad
-- **BE in Electrical Engineering (Major: Electronics)** - National University of Sciences and Technology (NUST), Islamabad
-- **GCE A-Levels** - National Grammar School, Lahore
-- **GCE O-Levels** - Laurelbank Public School, Lahore
-
 ## 📚 Certifications
 - **Completed:**
    - Machine Learning Specialization (Stanford University, Coursera, 2023)
@@ -59,37 +59,6 @@ I'm an Electrical Engineer graduate from NUST, Pakistan, passionate about solvin
    - SQL for Data Science (University of California Davis, Coursera)
    - Introduction to Machine Learning on AWS (AWS, Coursera)
 
-## 📈 Skills
-- **Technical Expertise:**
-   - Programming Languages: Python, C, C++, C#, SQL, HTML, CSS
-   - Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib
-   - Tools & Software: Anaconda, PyCharm, VS Code, MATLAB, Power BI, AutoCAD, OrCAD PSpice
-   - Hardware: Arduino, Raspberry Pi, FPGA, PIC Microcontrollers
-
-- **Soft Skills:**
-   - Quality Assurance & ISO Audits
-   - Data Analysis & Visualization
-   - Problem Solving & Team Collaboration
-
-## 📊 Projects
-- **House Prices - Advanced Regression Techniques (2024)**
-   - Ranked in the top 5% on Kaggle with a public score of 0.12010.
-
-- **Titanic - Machine Learning from Disaster (2023)**
-   - Ranked in the top 4% on Kaggle with a public score of 0.80622.
-
-- **Localization System for Multi-Agent UAVs (Final Year Project)**
-   - Developed a wireless localization system using Ultra Wide Band technology for indoor UAV operations.
-
-- **Low Pass Filter using Microstrip Lines (Microwave Engineering)**
-
-- **Four-Floor Elevator Control System (Microprocessor Systems)**
-
-## 🏅 Achievements
-- Gold Medalist for A-Level Results (NGS, 2013)
-- Finalist in Finding Innovative & Creative Solutions (FICS) 2017
-- Winner of Web Development Competition (Google, NUST 2014)
-- NUST Basketball Team Gold Medalist (2015)
 
 ### 🛠 &nbsp;Languages and Tools :
 <p>
