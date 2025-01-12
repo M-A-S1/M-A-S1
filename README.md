@@ -47,7 +47,7 @@ I'm an Electrical Engineer graduate from NUST, Pakistan, passionate about solvin
 
 - **Quality Assurance Specialist @ Pointivo (Apr 2019 - Aug 2022)**
    - Reviewed and corrected point-cloud based 3D models using AI tools.
-   - Collaborated on efficiency improvement for AI-based telecom inspections.
+   - Collaborated on efficiency improvement for AI-based roof inspections.
 
 ## 📚 Certifications
 - **Completed:**
