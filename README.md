@@ -11,9 +11,9 @@ I'm an Electrical Engineer graduate from Pakistan, passionate about solving real
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M-A-S1&label=Profile%20views&color=0e75b6&style=flat" alt="M-A-S1" /> </p>
 
-- 🌱 I’m currently expanding my expertise in **Deep Neural Networks and SLAM**
+- 🌱 I’m currently expanding my expertise in **Deep Neural Networks, SLAM, and Autonomous Systems.**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/M-A-S1?tab=repositories)
-- 💬 Ask me about **Machine Learning, AI, and Robotics**
+- 💬 Ask me about **Machine Learning, AI, Robotics, and Computer Vision.**
 - 📫 Reach me at **muhammad.ali.sid25@gmail.com**
 - ⚡ Fun fact: **I love Single Player Video Games!**
 
@@ -59,7 +59,18 @@ I'm an Electrical Engineer graduate from Pakistan, passionate about solving real
    - SQL for Data Science (University of California Davis, Coursera)
    - Introduction to Machine Learning on AWS (AWS, Coursera)
 
+## 🛠️ Projects
+- **NUST Student Policy Assistant** (Python, Ollama, LangChain, FAISS, Streamlit)
+   - Developed an AI-powered chatbot for answering university policy queries using RAG (Retrieval-Augmented Generation).
+   - Built a robust document ingestion pipeline and designed an interactive UI with Streamlit.
 
+- **Titanic Survival Prediction Project** (Python, Pandas, NumPy, Scikit-learn, Seaborn, XGBoost)
+   - Ranked in the top 4% globally on Kaggle with a public score of 0.80622.
+   - Conducted EDA and built a machine learning pipeline for survival prediction.
+
+ - **Localization System for Multi-Agent System of Quadcopters (M.A.S.Q.)** (C++, Arduino, ROS, Gazebo)
+   - Developed a wireless localization system using Ultra Wide Band technology for indoor UAV localization.
+     
 ### 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
