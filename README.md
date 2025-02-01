@@ -70,8 +70,8 @@ I'm an Electrical Engineer graduate from Pakistan, passionate about solving real
 
  - **Localization System for Multi-Agent System of Quadcopters (M.A.S.Q.)** (C++, Arduino, ROS, Gazebo)
    - Developed a wireless localization system using Ultra Wide Band technology for indoor UAV localization.
-     
-### 🛠 &nbsp;Languages and Tools :
+---     
+## 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
