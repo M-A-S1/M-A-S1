@@ -11,11 +11,11 @@ I'm an Electrical Engineer graduate from Pakistan, passionate about solving real
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M-A-S1&label=Profile%20views&color=0e75b6&style=flat" alt="M-A-S1" /> </p>
 
-- 🌱 I’m currently expanding my expertise in **Deep Neural Networks, SLAM, and Autonomous Systems.**
+- 🌱 I’m currently expanding my expertise in **Reinforcement Learning, SLAM, and Autonomous Systems.**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/M-A-S1?tab=repositories)
 - 💬 Ask me about **Machine Learning, AI, Robotics, and Computer Vision.**
 - 📫 Reach me at **muhammad.ali.sid25@gmail.com**
-- ⚡ Fun fact: **I love Single Player Video Games!**
+- ⚡ Fun fact: **I love Story-based Single Player Video Games!**
 
 ### 📫 Let's Connect!
 <p align="left">
