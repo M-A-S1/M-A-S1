@@ -97,5 +97,5 @@ I'm an Electrical Engineer graduate from Pakistan, passionate about solving real
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M-A-S1&theme=tokyonight" alt="M-A-S1" /></p>
 
-[![M-A-S1's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-A-S1)](https://github.com/M-A-S1/github-readme-stats&show_icons=true&theme=radical)
+![M-A-S1's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-A-S1&show_icons=true&theme=transparent)
 
