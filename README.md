@@ -7,17 +7,16 @@
 ---
 
 ## 🚀 About Me
-I am a Machine Learning & Computer Vision engineer (MS candidate, NUST) focused on 3D perception, SLAM, and production ML pipelines for drone-based inspection and autonomous systems. I work across the full ML lifecycle — dataset curation, model prototyping (PyTorch/TensorFlow), evaluation & monitoring, drift detection, and deployment to edge (Jetson, ESP32) and cloud.  
+Machine Learning, Robotics, and Computer Vision engineer pursuing an MS in Electrical Engineering (AI & Autonomous Systems) at NUST. I build and validate 3D perception and SLAM systems across simulation and real-world platforms, with hands-on experience in dataset curation, multi-sensor fusion, and model prototyping using PyTorch and TensorFlow.
 
-My recent work emphasizes **output-level QA** for production 3D systems: validating point clouds and meshes, gating model releases, instrumenting monitoring and drift detection, and converting model outputs into auditable, customer-ready analytics.
-
+My work spans the full ML lifecycle — evaluation, monitoring, drift detection, and deployment to edge (Jetson, ESP32) and cloud — with an emphasis on production-grade QA and reproducible outputs for 3D reconstruction, measurement and damage-detection tasks. I translate research prototypes (VLMs, DQN, ORB-SLAM) into robust, testable systems, and enjoy mentoring students and collaborating with cross-functional teams to deliver practical AI solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M-A-S1&label=Profile%20views&color=0e75b6&style=flat" alt="M-A-S1" /> </p>
 
-- 🌱 Currently deepening expertise in **Reinforcement Learning, SLAM, and 3D perception**.  
-- 👨‍💻 View my work: [GitHub repositories](https://github.com/M-A-S1?tab=repositories)  
-- 💬 Ask me about **Machine Learning, Computer Vision, Robotics, and Production ML**.  
-- 📫 Reach me: **muhammad.ali.sid25@gmail.com**  
-- ⚡ Fun fact: **I love story-driven single-player video games!**
+- 🌱 I’m currently expanding my expertise in **Reinforcement Learning, 3D perception, SLAM, and Autonomous Systems.**
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/M-A-S1?tab=repositories)
+- 💬 Ask me about **Machine Learning, Computer Vision, Robotics, and Production ML**
+- 📫 Reach me at **muhammad.ali.sid25@gmail.com**
+- ⚡ Fun fact: **I love Story-based Single Player Video Games!**
 
 ### 📫 Let's Connect!
 <p align="left">
@@ -26,9 +25,15 @@ My recent work emphasizes **output-level QA** for production 3D systems: validat
 </p>
 
 ## 🎯 My Goals
-- Build robust, production-grade ML systems for 3D perception and autonomous agents.  
-- Deliver reproducible datasets and output-focused QA pipelines that reduce customer risk.  
-- Ship deployable solutions for edge and cloud that translate research into impact.
+- 🌟 Build robust, production-grade ML systems for 3D perception and autonomous agents.
+- 📊 Ship deployable solutions for edge and cloud that translate research into impact.
+- 📚 Continuously learn and grow in the fields of AI, Robotics, and Data Science.
+
+## 📚 Education
+- **MS in Electrical Engineering (AI & Autonomous Systems)** - National University of Sciences and Technology (NUST), Islamabad (Sep 2024 - June 2026)
+- **BE in Electrical Engineering (Major: Electronics)** - National University of Sciences and Technology (NUST), Islamabad (Sep 2013 - June 2017)
+- **GCE A-Levels** - National Grammar School, Lahore (Sep 2011 - Aug 2013)
+- **GCE O-Levels** - Laurelbank Public School, Lahore (April 2008 - Aug 2011)
 
 ## 🧑‍💻 Work Experience
 - **Machine Learning Engineer — Computer Vision & 3D Perception @ Pointivo** (Feb 2024 – Present)  
@@ -48,11 +53,17 @@ My recent work emphasizes **output-level QA** for production 3D systems: validat
 - **Research Intern — Robotics & Sensor Integration, RISE Lab (NUST)** (Jun 2015 – Aug 2015)  
   - Prototype work on sensor fusion and multi-agent localization; validated sensing/control concepts on early robotic platforms.
 
-## 📚 Education
-- **MS, Electrical Engineering (AI & Autonomous Systems)** — NUST, Islamabad (Sep 2024 – Ongoing)  
-- **BE, Electrical Engineering (Electronics)** — NUST, Islamabad (Sep 2013 – Jun 2017)
+## 📚 Certifications
+- **Completed:**
+   - Machine Learning Specialization (Stanford University, Coursera, 2023)
+   - Deep Learning Specialization (Stanford University, Coursera, 2023)
+   - Introduction to Computer Vision and Image Processing (IBM, Coursera, 2023)
 
-## 🛠️ Selected Projects
+- **In Progress:**
+   - SQL for Data Science (University of California Davis, Coursera)
+   - Introduction to Machine Learning on AWS (AWS, Coursera)
+
+## 🛠️ Projects
 - **Leveraging VLMs for Robust SLAM Navigation** (MS Thesis) — Python, Habitat, iGibson, DQN  
   - Designed an imitation-learning framework to avoid SLAM tracking failures; integrated VLM checks into embodied navigation agents.
 
@@ -68,7 +79,8 @@ My recent work emphasizes **output-level QA** for production 3D systems: validat
 - **Localization System for Multi-Agent Quadcopters (M.A.S.Q.)** — C++, ROS, Gazebo, UWB  
   - Developed wireless localization and pose estimation for indoor UAV teams (undergraduate thesis).
 
-## 🛠 &nbsp;Languages & Tools
+---     
+## 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
@@ -76,14 +88,19 @@ My recent work emphasizes **output-level QA** for production 3D systems: validat
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab" title="Matlab"  alt="Matlab" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV"  alt="OpenCV" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch"  alt="PyTorch" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" title="NumPy"  alt="NumPy" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/open3d/open3d-icon.svg" title="Open3D"  alt="Open3D" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" title="ROS"  alt="ROS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg" title="Labview"  alt="Labview" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/master/icons/matlab/matlab" title="Matlab"  alt="Matlab" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib"  alt="Matplotlib" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV"  alt="OpenCV" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows11"  alt="Windows11" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg" title="ROS"  alt="ROS" width="40" height="40"/>&nbsp;
 </p>
 
 ### 🔥 &nbsp; My Stats :
+
 ![M-A-S1's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-A-S1&show_icons=true&theme=transparent)
