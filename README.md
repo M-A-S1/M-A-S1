@@ -36,11 +36,12 @@ My work spans the full ML lifecycle — evaluation, monitoring, drift detection,
 - **GCE O-Levels** - Laurelbank Public School, Lahore (April 2008 - Aug 2011)
 
 ## 🧑‍💻 Work Experience
-- **Machine Learning Engineer — Computer Vision & 3D Perception @ Pointivo** (Feb 2024 – Present)  
-  - Owned output-level QA for Pointivo’s patented Physical Asset Inspection ML engine: validated 3D reconstructions, automated measurements, and damage-detection pipelines.  
-  - Built automated validation and release-gating pipelines for point clouds and meshes (alignment, completeness, noise/artefact checks).  
-  - Developed evaluation metrics, monitoring, and drift-detection workflows to detect regressions and trigger retraining/data collection.  
-  - Created a RAG-based chatbot/documentation assistant to accelerate QA triage and support operations.
+- **Senior Quality Assurance Specialist — Computer Vision & 3D Perception @ Pointivo** (Feb 2024 – Present)  
+  - Generated high-precision 3D geometric models and ground-truth wireframes from drone-captured point cloud data to validate the accuracy of automated reconstruction pipelines.
+  - Produced high-fidelity digital twins for telecom infrastructure, performing rigorous data quality audits within an AI-driven platform to ensure spatial and structural reliability.
+  - Identified recurring reconstruction and measurement failure modes through manual review and maintained structured QA records that helped teams recognize output degradation patterns over time.
+  - Curated and annotated large-scale aerial imagery datasets, providing the essential labeled data required for training and refining computer vision models for automated damage detection.
+  - Created a RAG-based chatbot and documentation assistant to accelerate QA triage and customer operations.
 
 - **Assistant Engineer (Electronics) — Quality & Systems Testing @ Federal Government of Pakistan** (Aug 2022 – Feb 2024)  
   - Led data-driven verification and root-cause analysis for electronic control systems; implemented QMS improvements following ISO 9001:2015.  
