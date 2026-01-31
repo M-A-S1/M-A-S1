@@ -27,7 +27,7 @@ My work spans the full ML lifecycle — evaluation, monitoring, drift detection,
 ## 🎯 My Goals
 - 🌟 Build robust, production-grade ML systems for 3D perception and autonomous agents.
 - 📊 Ship deployable solutions for edge and cloud that translate research into impact.
-- 📚 Continuously learn and grow in the fields of AI, Robotics, and Data Science.
+- 📚 Continuously learn and grow in the fields of AI, Robotics, and Computer Vision.
 
 ## 📚 Education
 - **MS in Electrical Engineering (AI & Autonomous Systems)** - National University of Sciences and Technology (NUST), Islamabad (Sep 2024 - June 2026)
