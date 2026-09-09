@@ -84,6 +84,10 @@ I have seven years of experience building production-grade 3D perception and com
 
 ## 🛠️ Research & Projects
 
+- **Leveraging VLMs for Robust SLAM Navigation** (MS Thesis)  
+  *Python, Habitat, iGibson, DQN*  
+  - Designed an imitation-learning framework to avoid SLAM tracking failures; integrated VLM checks into embodied navigation agents.
+
 - **Real-Time Human Detection & Tracking on Jetson Nano**  
   *YOLOv4, DeepSORT, TensorRT* | Oct 2025 – Dec 2025  
   - Implemented real-time multi-object tracking with optimized TensorRT inference on Jetson Nano.
