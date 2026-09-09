@@ -7,101 +7,147 @@
 ---
 
 ## 🚀 About Me
-Machine Learning, Robotics, and Computer Vision engineer pursuing an MS in Electrical Engineering (AI & Autonomous Systems) at NUST. I build and validate 3D perception and SLAM systems across simulation and real-world platforms, with hands-on experience in dataset curation, multi-sensor fusion, and model prototyping using PyTorch and TensorFlow.
 
-My work spans the full ML lifecycle — evaluation, monitoring, drift detection, and deployment to edge (Jetson, ESP32) and cloud — with an emphasis on production-grade QA and reproducible outputs for 3D reconstruction, measurement and damage-detection tasks. I translate research prototypes (VLMs, DQN, ORB-SLAM) into robust, testable systems, and enjoy mentoring students and collaborating with cross-functional teams to deliver practical AI solutions.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=M-A-S1&label=Profile%20views&color=0e75b6&style=flat" alt="M-A-S1" /> </p>
+Robotics and Computer Vision researcher specializing in embodied navigation, SLAM, 3D scene understanding, and Vision-Language Model (VLM) integration for autonomous systems. My MS thesis demonstrated VLM-guided imitation learning agents that reduce SLAM tracking failures, outperforming SOTA dense-matching baselines while remaining CPU-deployable.
 
-- 🌱 I’m currently expanding my expertise in **Reinforcement Learning, 3D perception, SLAM, and Autonomous Systems.**
+I have seven years of experience building production-grade 3D perception and computer vision systems, with hands-on expertise in model adaptation (full fine-tuning, frozen-backbone training, contrastive learning, LoRA) across vision and multimodal foundation models. I work end-to-end — from simulation and data pipelines to model training and deployment on real and simulated robotic platforms (Jetson, ESP32, Habitat, iGibson).
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=M-A-S1&label=Profile%20views&color=0e75b6&style=flat" alt="M-A-S1" />
+</p>
+
+- 🌱 Currently expanding expertise in **Reinforcement Learning, 3D Perception, SLAM, VLMs, and Autonomous Systems**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/M-A-S1?tab=repositories)
-- 💬 Ask me about **Machine Learning, Computer Vision, Robotics, and Production ML**
+- 💬 Ask me about **Machine Learning, Computer Vision, Robotics, SLAM, VLMs, and Production ML**
 - 📫 Reach me at **muhammad.ali.sid25@gmail.com**
 - ⚡ Fun fact: **I love Story-based Single Player Video Games!**
 
 ### 📫 Let's Connect!
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-ali-sid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5058313/muhammad-ali-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-ali-sid/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/5058313/muhammad-ali-siddiqui" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
 </p>
 
 ## 🎯 My Goals
-- 🌟 Build robust, production-grade ML systems for 3D perception and autonomous agents.
-- 📊 Ship deployable solutions for edge and cloud that translate research into impact.
-- 📚 Continuously learn and grow in the fields of AI, Robotics, and Computer Vision.
+- 🌟 Build robust, production-grade ML systems for 3D perception and autonomous agents
+- 📊 Ship deployable solutions for edge and cloud that translate research into real-world impact
+- 📚 Continuously learn and grow in AI, Robotics, Computer Vision, and Multimodal Foundation Models
 
 ## 📚 Education
-- **MS in Electrical Engineering (AI & Autonomous Systems)** - National University of Sciences and Technology (NUST), Islamabad (Sep 2024 - June 2026)
-- **BE in Electrical Engineering (Major: Electronics)** - National University of Sciences and Technology (NUST), Islamabad (Sep 2013 - June 2017)
-- **GCE A-Levels** - National Grammar School, Lahore (Sep 2011 - Aug 2013)
-- **GCE O-Levels** - Laurelbank Public School, Lahore (April 2008 - Aug 2011)
+
+- **MS in Electrical Engineering (AI & Autonomous Systems)** — National University of Sciences and Technology (NUST), Islamabad  
+  *Sep 2024 – June 2026* | GPA: **3.90/4.00**  
+  Thesis: *Can VLMs Act As Teachers for Imitation Learning Agents? Visual SLAM Tracking Case Study*
+
+- **BE in Electrical Engineering (Major: Electronics)** — National University of Sciences and Technology (NUST), Islamabad  
+  *Sep 2013 – June 2017* | GPA: **3.25/4.00**  
+  Thesis: *Localization System for Multi-Agent System of Quadcopters (M.A.S.Q.)*
+
+- **GCE A-Levels** — National Grammar School, Lahore (Sep 2011 – Aug 2013)
+- **GCE O-Levels** — Laurelbank Public School, Lahore (April 2008 – Aug 2011)
 
 ## 🧑‍💻 Work Experience
-- **Senior Quality Assurance Specialist — Computer Vision & 3D Perception @ Pointivo** (Feb 2024 – Present)  
-  - Generated high-precision 3D geometric models and ground-truth wireframes from drone-captured point cloud data to validate the accuracy of automated reconstruction pipelines.
-  - Produced high-fidelity digital twins for telecom infrastructure, performing rigorous data quality audits within an AI-driven platform to ensure spatial and structural reliability.
-  - Identified recurring reconstruction and measurement failure modes through manual review and maintained structured QA records that helped teams recognize output degradation patterns over time.
-  - Curated and annotated large-scale aerial imagery datasets, providing the essential labeled data required for training and refining computer vision models for automated damage detection.
-  - Created a RAG-based chatbot and documentation assistant to accelerate QA triage and customer operations.
 
-- **Assistant Engineer (Electronics) — Quality & Systems Testing @ Federal Government of Pakistan** (Aug 2022 – Feb 2024)  
-  - Led data-driven verification and root-cause analysis for electronic control systems; implemented QMS improvements following ISO 9001:2015.  
-  - Built repeatable test scripts and instrumentation workflows to measure and report system performance.
+- **Computer Vision Engineer @ CCRIPT Agency** (Remote)  
+  *Feb 2026 – Present*  
+  - Conducting R&D on multimodal and vision foundation models (REX-Omni, Meta DINO), evaluating fine-tuning strategies (frozen-backbone, full-model, contrastive-head, LoRA).  
+  - Engineering production-grade CV pipelines integrating OCR, vector extraction, object detection, and semantic segmentation for automated engineering estimation from architectural drawings.
 
-- **Quality Assurance Specialist (3D Mapping & Reconstruction) @ Pointivo** (Apr 2019 – Aug 2022)  
-  - Produced annotated datasets and 3D wireframes from drone imagery for automated inspection and model training.  
-  - Validated geometry and annotation quality; coordinated with ML/product teams to close dataset-to-model feedback loops.
+- **Research Assistant @ National University of Sciences & Technology (NUST)**  
+  *July 2026 – Present*  
+  - Research on Vision-Language Models for embodied robotic navigation; designed an imitation-learning framework where VLMs guide agents to avoid SLAM tracking failures (Habitat-Lab & iGibson).  
+  - Contributing to 3D computer vision, SLAM, and robotic perception research focused on scene understanding and safe action selection.  
+  - Designing content for a graduate-level Generative AI course (foundation models, LLMs, RAG, prompting).
 
-- **Research Intern — Robotics & Sensor Integration, RISE Lab (NUST)** (Jun 2015 – Aug 2015)  
-  - Prototype work on sensor fusion and multi-agent localization; validated sensing/control concepts on early robotic platforms.
+- **Senior Quality Assurance Specialist — Computer Vision & 3D Perception @ Pointivo** (Remote, USA)  
+  *Feb 2024 – Jan 2026*  
+  - Generated high-precision 3D geometric models and ground-truth wireframes from drone point clouds to validate automated reconstruction pipelines.  
+  - Produced high-fidelity digital twins for telecom infrastructure with rigorous data quality audits.  
+  - Identified recurring reconstruction/measurement failure modes and maintained structured QA records for model degradation tracking.  
+  - Built a RAG-based chatbot and documentation assistant to accelerate QA triage and customer operations.
+
+- **Teaching Assistant (Machine Learning) @ NUST**  
+  *Aug 2025 – Dec 2025*  
+  - Supported core ML course delivery (supervised learning, model evaluation).  
+  - Mentored student projects on data preprocessing, model prototyping, and experimental analysis.
+
+- **Assistant Engineer (Electronics) — Quality & Systems Testing @ Federal Government of Pakistan**  
+  *Aug 2022 – Feb 2024*  
+  - Validated electronic system reliability and sensor performance.  
+  - Administered QMS under ISO 9001:2015; used statistical analysis to identify performance trends.
+
+- **Quality Assurance Specialist (3D Mapping & Reconstruction) @ Pointivo**  
+  *Apr 2019 – Aug 2022*  
+  - Generated high-precision 3D wireframes and surface models from drone photogrammetry for roofing/solar AI models.  
+  - Optimized data-processing workflows for the Customer Operations Team.
+
+## 🛠️ Research & Projects
+
+- **Can VLMs Act As Teachers for Imitation Learning Agents?** (MS Thesis)  
+  *Python, Habitat, iGibson, DQN, Qwen2.5-VL* | May 2025 – June 2026  
+  - Designed a multi-stage VLM querying pipeline (Qwen2.5-VL 7B, local, no fine-tuning) to evaluate action safety at doorway crossings and generate offline demonstration data.  
+  - Trained CNN-based DQN (open-door) and ViViT-based CQL (closed-door) agents via reward-augmented Learning from Demonstrations with a six-component tracking-aware reward.  
+  - Achieved **85% success (SPL 0.842)** open-door and **90% success (SPL 0.634)** closed-door, outperforming MASt3R-SLAM (20–25%) and prior IL/RL baselines. Both agents are CPU-deployable at inference.
+
+- **Real-Time Human Detection & Tracking on Jetson Nano**  
+  *YOLOv4, DeepSORT, TensorRT* | Oct 2025 – Dec 2025  
+  - Implemented real-time multi-object tracking with optimized TensorRT inference on Jetson Nano.
+
+- **NUST Student Policy Assistant**  
+  *Python, Ollama, LangChain, FAISS, Streamlit* | Nov 2024 – Dec 2024  
+  - Built a RAG-based chatbot for university policy queries with robust PDF ingestion and dual embedding (SentenceTransformer + TF-IDF) pipeline.
+
+- **Real-Time Fire Alarm Sound Detection on ESP32**  
+  *ESP32, FreeRTOS, I2S, FFT* | Dec 2024 – Jan 2025  
+  - Dual-rate FFT (1024/4096) acoustic detection with parabolic interpolation, temporal filtering, and WiFi monitoring dashboard.
+
+- **Novel SLAM Dataset using ArUco Markers**  
+  *Python, OpenCV* | Oct 2024 – In Progress  
+  - Structured SLAM datasets with accurate pose graphs and feature associations; generated top-down maps for tracking accuracy visualization.
+
+- **NUST-HQ Roundabout 3D Reconstruction**  
+  *Python, COLMAP* | Apr 2025 – May 2025  
+  - Created a digital twin from monocular video using Structure-from-Motion and Multi-View Stereo.
+
+- **Localization System for Multi-Agent Quadcopters (M.A.S.Q.)** (Undergraduate Thesis)  
+  *C++, ROS, Gazebo, UWB*
 
 ## 📚 Certifications
-- **Completed:**
-   - Machine Learning Specialization (Stanford University, Coursera, 2023)
-   - Deep Learning Specialization (Stanford University, Coursera, 2023)
-   - Introduction to Computer Vision and Image Processing (IBM, Coursera, 2023)
 
-- **In Progress:**
-   - SQL for Data Science (University of California Davis, Coursera)
-   - Introduction to Machine Learning on AWS (AWS, Coursera)
+**Completed**
+- Machine Learning Specialization (Stanford University / Coursera, 2023)
+- Deep Learning Specialization (Stanford University / Coursera, 2023)
+- Introduction to Computer Vision and Image Processing (IBM / Coursera, 2023)
 
-## 🛠️ Projects
-- **Leveraging VLMs for Robust SLAM Navigation** (MS Thesis) — Python, Habitat, iGibson, DQN  
-  - Designed an imitation-learning framework to avoid SLAM tracking failures; integrated VLM checks into embodied navigation agents.
+**In Progress**
+- SQL for Data Science (UC Davis / Coursera)
+- Introduction to Machine Learning on AWS (AWS / Coursera)
 
-- **NUST Student Policy Assistant** — Python, Ollama, LangChain, FAISS, Streamlit  
-  - Built a RAG-based chatbot for university policy queries with a robust document ingestion and embedding pipeline.
+## 🛠 Languages and Tools
 
-- **NUST-HQ Roundabout 3D Reconstruction** — Python, COLMAP  
-  - Created a digital twin from monocular video using SfM and MVS; aligned imagery and produced large-scale reconstructions.
-
-- **Real-Time Fire Alarm Sound Detection on ESP32** — ESP32, FreeRTOS, I2S, FFT  
-  - Implemented real-time acoustic detection with dual-rate FFT and deployed on a resource-constrained MCU.
-
-- **Localization System for Multi-Agent Quadcopters (M.A.S.Q.)** — C++, ROS, Gazebo, UWB  
-  - Developed wireless localization and pose estimation for indoor UAV teams (undergraduate thesis).
-
----     
-## 🛠 &nbsp;Languages and Tools :
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg" title="Labview"  alt="Labview" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/master/icons/matlab/matlab" title="Matlab"  alt="Matlab" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib"  alt="Matplotlib" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV"  alt="OpenCV" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows11"  alt="Windows11" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg" title="ROS"  alt="ROS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg" title="ROS" alt="ROS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
 </p>
 
-### 🔥 &nbsp; My Stats :
+**Core Skills:** Python • C++ • C • SQL • PyTorch • TensorFlow • OpenCV • ROS/ROS2 • Habitat-Lab • iGibson • Gazebo • ORB-SLAM3 • COLMAP • Jetson Nano • TensorRT • Docker • AWS • Git • MATLAB • Linux
 
+### 🔥 My Stats
 ![M-A-S1's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-A-S1&show_icons=true&theme=transparent)
