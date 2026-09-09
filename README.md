@@ -143,5 +143,4 @@ I have seven years of experience building production-grade 3D perception and com
 **Core Skills:** Python • C++ • C • SQL • PyTorch • TensorFlow • OpenCV • ROS/ROS2 • Habitat-Lab • iGibson • Gazebo • ORB-SLAM3 • COLMAP • Jetson Nano • TensorRT • Docker • AWS • Git • MATLAB • Linux
 
 ### 🔥 My Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-A-S1&show_icons=true&theme=transparent&hide_border=true)](https://github.com/M-A-S1)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-S1&layout=compact&theme=transparent&hide_border=true)](https://github.com/M-A-S1)
+![GitHub Stats](./profile/stats.svg)
