@@ -84,12 +84,6 @@ I have seven years of experience building production-grade 3D perception and com
 
 ## 🛠️ Research & Projects
 
-- **Can VLMs Act As Teachers for Imitation Learning Agents?** (MS Thesis)  
-  *Python, Habitat, iGibson, DQN, Qwen2.5-VL* | May 2025 – June 2026  
-  - Designed a multi-stage VLM querying pipeline (Qwen2.5-VL 7B, local, no fine-tuning) to evaluate action safety at doorway crossings and generate offline demonstration data.  
-  - Trained CNN-based DQN (open-door) and ViViT-based CQL (closed-door) agents via reward-augmented Learning from Demonstrations with a six-component tracking-aware reward.  
-  - Achieved **85% success (SPL 0.842)** open-door and **90% success (SPL 0.634)** closed-door, outperforming MASt3R-SLAM (20–25%) and prior IL/RL baselines. Both agents are CPU-deployable at inference.
-
 - **Real-Time Human Detection & Tracking on Jetson Nano**  
   *YOLOv4, DeepSORT, TensorRT* | Oct 2025 – Dec 2025  
   - Implemented real-time multi-object tracking with optimized TensorRT inference on Jetson Nano.
@@ -149,4 +143,5 @@ I have seven years of experience building production-grade 3D perception and com
 **Core Skills:** Python • C++ • C • SQL • PyTorch • TensorFlow • OpenCV • ROS/ROS2 • Habitat-Lab • iGibson • Gazebo • ORB-SLAM3 • COLMAP • Jetson Nano • TensorRT • Docker • AWS • Git • MATLAB • Linux
 
 ### 🔥 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-A-S1&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-A-S1&show_icons=true&theme=transparent&hide_border=true)](https://github.com/M-A-S1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-S1&layout=compact&theme=transparent&hide_border=true)](https://github.com/M-A-S1)
