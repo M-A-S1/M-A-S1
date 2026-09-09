@@ -126,10 +126,6 @@ I have seven years of experience building production-grade 3D perception and com
 
 ## 🛠 Languages and Tools
 
-## 🛠 Languages and Tools
-
-## 🛠 Languages and Tools
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
