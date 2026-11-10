@@ -76,12 +76,18 @@ I bring over seven years of professional experience across applied computer visi
   - Supported research activities in 3D computer vision, SLAM, robotic perception, and scene understanding.
   - Developed learning material for a graduate-level Generative Artificial Intelligence course, covering foundation models, large language models, retrieval-augmented generation, and prompting.
 
-- **Computer Vision Engineer @ CCRIPT Agency**  
+- **Computer Vision Engineer @ Neuralogic**  
   *Feb 2026 – Oct 2026 | Remote*  
   - Developed computer vision workflows for automated quantity takeoff and estimation from engineering drawings.
   - Integrated optical character recognition, vector extraction, object detection, and semantic segmentation into practical processing pipelines.
   - Evaluated and adapted pretrained vision and multimodal models, experimenting with frozen-backbone approaches, fine-tuning, contrastive objectives, and Low-Rank Adaptation.
   - Worked with GPU-based inference and deployment workflows, including cloud infrastructure and TensorRT optimisation.
+ 
+- **Research Assistant @ ROMI Lab NUST**  
+  *July 2026 – Oct 2026 | Remote*  
+  - Worked on Sim-to-Real task for my MS Thesis
+  - Developed an LLM-based school simulator for an education startup. 
+  - Designed content for a graduate-level Generative AI course (foundation models, LLMs, RAG, prompting).
 
 - **Senior Quality Assurance Specialist — Computer Vision & 3D Perception @ Pointivo**  
   *Feb 2024 – Feb 2026 | Remote, USA*  
